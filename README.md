@@ -1,7 +1,7 @@
 # Tuwaiq-bootcamp-JavaScript-frontend
 
 
-# Tuwaiq-Vanilla-JavaScript-Course
+
 مرحبا , اهلا بكم في دورة مقدمة في تطوير الويب ( FrontEnd-JavaScript) , هذه الصفحة تحتوي على معلومات و المواعيد  , الدروس ,التمارين و الواجبات .
 
 ## المواعيد
@@ -70,10 +70,10 @@
 |:----:|:---:|:------:|:---:|:--------:|
 | Week1| 1   |   [Intro-To-World-Wide-Web]()     |[Intro-To-World-Wide-Web-lap]()     |[Intro-To-World-Wide-Web-hw]()
 | Week1| 2   |     [html](https://github.com/Tuwaiq-Academy-Training/HTML-CSS-Lesson)   |[html-lab](https://github.com/Tuwaiq-Academy-Training/HTML-CSS-Lap)     |[html-hw]()
-| Week1| 3   |    [CSS](https://github.com/Tuwaiq-Academy-Training/HTML-CSS-Lesson)    |[CSS-lab](https://github.com/Tuwaiq-Academy-Training/HTML-CSS-Lap)     |[css-hw]()
-| Week1| 4   |    [Bootstrap]()    | [Bootstrap-lap]()    |[Bootstrap-hw]()
+| Week1| 3   |    [CSS-Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-CSS-Lesson)    |[CSS-lab](https://github.com/Tuwaiq-Academy-Training/HTML-CSS-Lap)     |[css-hw]()
+| Week1| 4   |    [Advanced-CSS-Bootstrap-Lesson](https://github.com/Tuwaiq-Academy-Training/Advanced-CSS-Bootstrap-Lab)    | [Advanced-CSS-Bootstrap-lap](https://github.com/Tuwaiq-Academy-Training/JavaScript-Fundamentals-Lab)    |[Advanced-CSS-Bootstrap-hw](https://github.com/Tuwaiq-Academy-Training/JavaScript-Fundamentals-HW)
 | Week1| 5   |[Week-One-Project]()|[Week-One-Project]() | [Week-One-Project]()
-| Week2| 1   |[Introduction to JavaScript](https://github.com/Tuwaiq-Academy-Training/Introduction-to-JavaScript/blob/main/README.md)|[Introduction to JavaScript-lab]()|[Introduction to JavaScript-Hw]()
+| Week2| 1   |[Introduction to JavaScript](https://github.com/Tuwaiq-Academy-Training/Introduction-to-JavaScript/blob/main/README.md)|[Introduction to JavaScript-lab](https://github.com/Tuwaiq-Academy-Training/JavaScript-Fundamentals_Lab)|[Introduction to JavaScript-Hw](https://github.com/Tuwaiq-Academy-Training/JavaScript-HW/blob/main/README.md)
 | Week2| 2   |[Advanced-JavaScript](https://github.com/Tuwaiq-Academy-Training/Advanced-JavaScript)|[Advanced-JavaScript]()|[Advanced-JavaScript]()
 | Week2| 3   |[Advanced-JavaScript-2](https://github.com/Tuwaiq-Academy-Training/Tuwaiq-Vanilla-JavaScript-Course-Day8/blob/main/README.md)|[Advanced-JavaScript-2-lab]()|[Advanced-JavaScript-Hw]()
 | Week2| 4   |[Document Object Model (DOM) ](https://github.com/Tuwaiq-Academy-Training/Tuwaiq-DOM-JavaScript-Course/blob/main/README.md)|[Document Object Model (DOM) -Lab]()|[Document Object Model (DOM) -HW]()
