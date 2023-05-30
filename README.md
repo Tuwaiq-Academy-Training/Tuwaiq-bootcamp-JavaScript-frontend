@@ -74,15 +74,12 @@
 | Week1| 4   |   [Advanced-JavaScript](https://github.com/Tuwaiq-Academy-Training/Advanced-JavaScript)|[Advanced-JavaScript](https://github.com/Tuwaiq-Academy-Training/Advanced-JavaScript-Lab)|[Advanced-JavaScript](https://github.com/Tuwaiq-Academy-Training/Advanced-JavaScript-HW)
 | Week1| 5   |   [Advanced-JavaScript-Dom](https://github.com/Tuwaiq-Academy-Training/Tuwaiq-DOM-JavaScript-Course/blob/main/README.md)|[Advanced-JavaScript-Dom-lab]()|[Advanced-JavaScript-Dom-Hw](https://github.com/Tuwaiq-Academy-Training/Advanced-JavaScript-HW)
 | Week2| 1   |[React-Fundamentals-Lesson](https://github.com/Tuwaiq-JavaScript/React-Fundamentals-Lesson)|[React-Fundamentals-Lab](https://github.com/Tuwaiq-JavaScript/React-Fundamentals-Lab)|[React-Fundamentals-HW](https://github.com/Tuwaiq-JavaScript/React-Fundamentals-HW)
-| Week2| 2   |[React-Styling-Routing-Lesson](https://github.com/Tuwaiq-JavaScript/React-Styling-Routing-Lesson)|[React-Styling-Routing-Lab](https://github.com/Tuwaiq-JavaScript/React-Styling-Routing-Lab)|[React-Styling-Routing-HW](https://github.com/Tuwaiq-JavaScript/React-Styling-Routing-HW)
-| Week2| 3   |[React-Components-Life-Cycle-Hooks-Lesson](https://github.com/Tuwaiq-JavaScript/React-Components-Life-Cycle-Lesson)|[React-Components-Life-Cycle-Lab](https://github.com/Tuwaiq-JavaScript/React-Components-Life-Cycle-Lab)|[React-Components-Life-Cycle-HW](https://github.com/Tuwaiq-JavaScript/React-Components-Life-Cycle-HW)
-| Week2| 4   |[Chakra-Ui-Lesson](https://github.com/Tuwaiq-Academy-Training/Chakra-ui-Lesson) |[Chakra-Ui-Lab](https://github.com/Tuwaiq-Academy-Training/ChakraUI-Lab/blob/main/README.md)|[Chakra-UI-HW](https://github.com/Tuwaiq-Academy-Training/Chakra-ui-HW/blob/main/README.md)
-| Week2| 5   |[Week-Two-Project](https://github.com/Tuwaiq-JavaScript/Week-Two-Project)|[Week-Two-Project](https://github.com/Tuwaiq-JavaScript/Week-Two-Project)|[Week-Two-Project](https://github.com/Tuwaiq-JavaScript/Week-Two-Project)
-| Week3| 1   |[]()|[]()|[]()
-| Week3| 2   |[]()|[]()|[]()
-| Week3| 3   |[]()|[]()|[]()
-| Week3| 4   |[]()|[]()|[]()
-| Week3| 5   |[]()|[]()|[]()
-
+| Week3| 2   |[React-Props-ts-Lesson](https://github.com/Tuwaiq-Academy-Training/React-Props-ts-Lesson/blob/main/README.md)|[React-Props-ts-Lab](https://github.com/Tuwaiq-Academy-Training/React-Props-ts-Lab)|[React-Props-ts-Hw]()
+| Week3| 3   |[Chakra-Ui-Lesson](https://github.com/Tuwaiq-Academy-Training/Chakra-ui-Lesson) |[Chakra-Ui-Lab](https://github.com/Tuwaiq-Academy-Training/ChakraUI-Lab/blob/main/README.md)|[Chakra-UI-HW](https://github.com/Tuwaiq-Academy-Training/Chakra-ui-HW/blob/main/README.md)
+| Week3| 4   |[React-Routing-Lesson](https://github.com/Tuwaiq-Academy-Training/React-Styling-Routing-Lesson) |[React-Routing-Lab](https://github.com/Tuwaiq-Academy-Training/_React-Styling-Routing-Lab) |[React-Routing-Hw]()
+| Week3| 5   |[React hooks with TypeScript](https://github.com/Tuwaiq-Academy-Training/React-hooks-with-TypeScript/blob/main/README.md)|[React hooks with TypeScript-lab](https://github.com/Tuwaiq-Academy-Training/Reac-hooks-with-TypeScript-lab/blob/main/README.md) |[React hooks with TypeScript-Hw](https://github.com/Tuwaiq-Academy-Training/Reac-hooks-with-TypeScript-HW/blob/main/README.md)
+| Week4| 1   |[React hooks with TypeScript](https://github.com/Tuwaiq-Academy-Training/React-hooks-with-TypeScript/blob/main/README.md)  |[]()  |[]()
+| Week4| 2   |[CRUD](https://github.com/Tuwaiq-Academy-Training/APY-Lesson-TypeScript/blob/main/README.md)  |[]()  |[]()
+| Week4| 3   |[CRUD]()|[]() |[]()
 .
 
