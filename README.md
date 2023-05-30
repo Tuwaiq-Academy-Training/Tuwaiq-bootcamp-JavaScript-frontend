@@ -30,8 +30,8 @@
 | :--- |
 | React.js|
 | Advanced React.js|
-| React.js|
-| Redux|
+| Chakra-Ui|
+
 
 ## الوحدة الثالثة 3 \(Full Stack Web Application \)
 
