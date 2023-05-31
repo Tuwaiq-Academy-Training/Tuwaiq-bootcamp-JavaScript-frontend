@@ -68,7 +68,7 @@
 
 | Week | Day | Lesson | Lap | HomeWork |
 |:----:|:---:|:------:|:---:|:--------:|
-| Week1| 1   |   [Intro-To-World-Wide-Web](https://github.com/Tuwaiq-Academy-Training/HTML-CSS-Lesson)     |[Intro-To-World-Wide-Web-lap](https://github.com/Tuwaiq-Academy-Training/HTML-CSS-Lesson)     |[Intro-To-World-Wide-Web-hw](https://github.com/Tuwaiq-Academy-Training/HTML-CSS-Lesson)
+| Week1| 1   |   [HTML-CSS-Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-CSS-Lesson)     |[HTML-CSS-Lesson-lap](https://github.com/Tuwaiq-Academy-Training/HTML-CSS-Lesson)     |[HTML-CSS-Lessonhw](https://github.com/Tuwaiq-Academy-Training/HTML-CSS-Lesson)
 | Week1| 2   |    [Advanced-CSS-Bootstrap-Lesson](https://github.com/Tuwaiq-Academy-Training/Advanced-CSS-Bootstrap-Lesson)    | [Advanced-CSS-Bootstrap-lap](https://github.com/Tuwaiq-Academy-Training/JavaScript-Fundamentals-Lab)    |[Advanced-CSS-Bootstrap-hw](https://github.com/Tuwaiq-Academy-Training/JavaScript-Fundamentals-HW)
 | Week1| 3   |   [JavaScript-Fundamentals-Lesson](https://github.com/Tuwaiq-Academy-Training/JavaScript-Fundamentals-Lesson)|[JavaScript-Fundamentals-Lab](https://github.com/Tuwaiq-Academy-Training/JavaScript-Fundamentals_Lab)|[JavaScript-Fundamentals-HW](https://github.com/Tuwaiq-Academy-Training/JavaScript-HW/blob/main/README.md)
 | Week1| 4   |   [Advanced-JavaScript-Lesson](https://github.com/Tuwaiq-Academy-Training/Advanced-JavaScript-Lesson)|[Advanced-JavaScript-Lab](https://github.com/Tuwaiq-Academy-Training/Advanced-JavaScript_Lab/blob/main/README.md) | [Advanced-JavaScript-Hw]()
